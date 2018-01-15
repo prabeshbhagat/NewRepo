@@ -3,7 +3,7 @@ public class ClassFather {
     String empName;
     int empCode;
     String designation;
-
+    //parent class
     public ClassFather() {
         System.out.println("Defalut constructor");
 
